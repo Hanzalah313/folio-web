@@ -22,8 +22,8 @@ It showcases my skills, projects, and provides a way to download my resume.
 
 ## 📬 Contact
 - Email: [hanzalamohammed56@gmail.com.com](mailto:hanzamohammed56@gmail.com)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/Hanzalah313)
-- LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/hanzala313)
+- GitHub: [https://github.com/Hanzalah313](https://github.com/Hanzalah313)
+- LinkedIn: [https://linkedin.com/in/hanzala313](https://linkedin.com/in/hanzala313)
 
 ## 🚀 Deployment
 This portfolio is live at:  
