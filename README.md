@@ -18,16 +18,16 @@ It showcases my skills, projects, and provides a way to download my resume.
 ## 📂 Project Structure
 
 ## 📄 Resume
-👉 [Download Resume](./assets/resume.pdf)
+👉 [Download Resume]("C:\Users\dell\Downloads\CV 2.0.pdf")
 
 ## 📬 Contact
-- Email: [hanzala@example.com](mailto:hanzala@example.com)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
+- Email: [hanzalamohammed56@gmail.com.com](mailto:hanzamohammed56@gmail.com)
+- GitHub: [github.com/YOUR_USERNAME](https://github.com/Hanzalah313)
+- LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/hanzala313)
 
 ## 🚀 Deployment
 This portfolio is live at:  
-🔗 [https://YOUR_USERNAME.github.io/portfolio](https://YOUR_USERNAME.github.io/portfolio)
+🔗 [https://YOUR_USERNAME.github.io/portfolio](https://github.com/Hanzalah313/folio)
 
 ---
 ⭐ If you like this portfolio, give it a star!  
